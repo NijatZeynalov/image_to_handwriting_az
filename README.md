@@ -53,7 +53,7 @@ Test image:
 
 Result:
 
-![output_image](https://github.com/NijatZeynalov/mgpt-az-streamlit/assets/31247506/5031f4d7-309b-4cf1-9ed1-1f80453785b8)
+![output_image](https://github.com/NijatZeynalov/mgpt-az-streamlit/assets/31247506/f1931bff-8531-484d-a487-fc2ebeecbd5f)
 
 
 ## Contributing
