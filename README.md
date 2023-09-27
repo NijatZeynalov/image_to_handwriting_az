@@ -28,6 +28,8 @@ Begin by cloning this repository to your local environment:
 git clone https://github.com/NijatZeynalov/text-to-handwriting-az.git
 ```
 
+Navigate to the project directory:
+
 ```python
 cd text-to-handwriting-az
 ```
@@ -40,3 +42,22 @@ Run the project with the following command, providing the text you wish to conve
 ```python
 python src/text_to_handwriting.py --image 'images/tests/test_1.png'
 ```
+
+The application will commence by conducting OCR on the input image, followed by the generation of a captivating image featuring the handwritten Azerbaijani script. The resulting image will be stored at the designated output location.
+
+## Examples:
+
+Test image:
+
+![input_image](https://github.com/NijatZeynalov/mgpt-az-streamlit/assets/31247506/7e4d056a-6165-47a9-bc7e-2fbe9cee6662)
+
+Result:
+
+![output_image](https://github.com/NijatZeynalov/mgpt-az-streamlit/assets/31247506/5031f4d7-309b-4cf1-9ed1-1f80453785b8)
+
+
+## Contributing
+I welcome contributions to this project from the community. Please don't hesitate to open issues or submit pull requests to enhance functionality or introduce new features. Together, we can improve this project and make it even more valuable.
+
+## License
+This project is licensed under the MIT License. Feel free to adapt and use it as needed within the boundaries of this license.
