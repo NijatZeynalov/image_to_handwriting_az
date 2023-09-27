@@ -25,13 +25,13 @@ pip install -r requirements.txt
 Begin by cloning this repository to your local environment:
 
 ```python
-git clone https://github.com/NijatZeynalov/text-to-handwriting-az.git
+git clone https://github.com/NijatZeynalov/image-to-handwriting-az.git
 ```
 
 Navigate to the project directory:
 
 ```python
-cd text-to-handwriting-az
+cd image-to-handwriting-az
 ```
 
 # Usage
