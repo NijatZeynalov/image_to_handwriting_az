@@ -1,6 +1,6 @@
-# Azerbaijani Text to Handwriting Converter
+# Image to Azerbaijani handwriting converter
 
-The Azerbaijani Text to Handwriting Converter is a versatile Python application that seamlessly transforms digital text into elegant Azerbaijani handwriting. This project employs Optical Character Recognition (OCR) for text recognition and subsequently generates visually appealing images of the text, emulating the artistry of handwritten Azerbaijani script.
+The Azerbaijani Text to Handwriting Converter is a versatile Python application that seamlessly transforms image into elegant Azerbaijani handwriting. This project employs Optical Character Recognition (OCR) for text recognition and subsequently generates visually appealing images of the text, emulating the artistry of handwritten Azerbaijani script.
 
 
 ## Table of Contents
